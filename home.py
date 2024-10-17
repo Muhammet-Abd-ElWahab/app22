@@ -1,2 +1,2 @@
-!pip install pandas
+! pip install pandas
 import pandas
