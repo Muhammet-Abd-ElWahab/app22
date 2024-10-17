@@ -1,3 +1,13 @@
+lightgbm
+matplotlib
 pandas
 numpy
+plotly
+PyYAML
+scikit_learn
+seaborn
+shap
 streamlit
+streamlit_extras
+streamlit_option_menu
+xgboost
