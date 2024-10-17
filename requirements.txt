@@ -4,7 +4,6 @@ wheel
 distlib
 lightgbm==4.5.0
 matplotlib==3.8.4
-matplotlib==3.7.2
 pandas==2.0.3
 numpy==1.24.0
 plotly==5.24.1
