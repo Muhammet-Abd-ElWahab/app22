@@ -1,2 +1,2 @@
-! pip install pandas
-import pandas
+import pandas as pd 
+import mumpy as np
